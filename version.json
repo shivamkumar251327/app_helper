@@ -1,6 +1,6 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "force_update": true,
-  "download_url": "https://archive.org/download/PaperBox-v2.0.2/PaperBox-v2.0.2.apk",
+  "download_url": "https://archive.org/download/paper-box-v-2.0.2/PaperBox-v2.0.2.apk",
   "release_notes": "⚡ THE LIGHTNING SPEED UPDATE IS HERE! 🚀🔥\n\n🏎️ INSTANT APP BOOT\nZero white screens. We added aggressive local caching and lazy-loading so your Dashboard now opens instantly. Your data syncs silently in the background! 💨\n\n📅 GROUPED ATTENDANCE HISTORY\nNo more endless scrolling! Multiple lectures on the same day are now beautifully grouped into single Date Cards with clean 'Lec 1 / Lec 2' indicator pills. 💊\n\n🤝 ADVANCED FRIEND INSIGHTS\nWe upgraded the Friends page! You can now see exactly how many classes your friends can safely skip, or exactly how many they MUST attend to survive the 75% criteria. 🎯\n\n👀 INTERNAL MARKS PREVIEW\nAdded the new Internal Marks section to the Hub! You can now see your subjects (with official Subject Codes). The API is cooking, but the UI is locked and loaded! 🍳\n\n📱 NATIVE SPLASH SCREEN & UI POLISH\nAdded a butter-smooth native splash screen, fixed the camera notch overlaps, and polished the Subject UI to look 100% premium. ✨\n\nUpdate now to feel the speed! ❤️"
 }
